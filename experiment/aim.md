@@ -1,8 +1,8 @@
 
-•	Understand basics of RNA sequencing.
+• Understand basics of RNA sequencing.
 
 
-•	Determining gene expression at different levels between conditions.
+• Determining gene expression at different levels between conditions.
 
 
-•	To detect and quantify non-protein-coding transcripts, slice isoforms, novel transcripts and sites of protein-RNA interactions.
+• To detect and quantify non-protein-coding transcripts, slice isoforms, novel transcripts and sites of protein-RNA interactions.
